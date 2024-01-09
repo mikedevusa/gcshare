@@ -1,0 +1,5 @@
+bucketname: # bucket name in google cloud storage
+mailhost: # SMTP hostname (Example: smtp.gmail.com)
+mailport: 587 # SMTP Port
+user: # Your email address (sender address)
+password: # Email password
