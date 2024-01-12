@@ -8,7 +8,6 @@ Simple CLI tool to quickly share a local file with an email address via Google C
 - Email with credentials available to use for sending (example: gmail with app password)
 
 ## Usage
-
 1.`go build` to compile
 
 2. `cp example_config.yml config.yml` then edit the yml with the appropriate fields
